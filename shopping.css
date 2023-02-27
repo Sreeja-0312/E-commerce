@@ -123,6 +123,11 @@ footer ul li{
     border-radius: 5px;
     
 }
+@media screen and (max-width:760px){
+.brand-section .d-flex {
+display:block !important;
+}
+}
 
 
 
